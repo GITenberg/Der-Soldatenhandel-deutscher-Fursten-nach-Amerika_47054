@@ -1,0 +1,22 @@
+_repo: Der-Soldatenhandel-deutscher-Fursten-nach-Amerika_47054
+creator:
+  author:
+    agent_name: Kapp, Friedrich
+    birthdate: 1824
+    deathdate: 1884
+    gutenberg_agent_id: '44112'
+    url: http://www.gutenberg.org/2009/agents/44112
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Kapp
+description: ''
+gutenberg_issued: '2014-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47054'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Participation, German'
+title: Der Soldatenhandel deutscher Fürsten nach Amerika
+url: http://www.gutenberg.org/ebooks/47054
