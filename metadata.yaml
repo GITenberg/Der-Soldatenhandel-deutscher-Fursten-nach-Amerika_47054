@@ -1,4 +1,8 @@
 _repo: Der-Soldatenhandel-deutscher-Fursten-nach-Amerika_47054
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47054-h/images/cover.jpg
 creator:
   author:
     agent_name: Kapp, Friedrich
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44112
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Kapp
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47054#Der-Soldatenhandel-deutscher-Fursten-nach-Amerika
 gutenberg_issued: '2014-10-05'
 gutenberg_type: Text
 identifiers:
